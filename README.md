@@ -61,7 +61,7 @@ It ensures that only authenticated and authorized users can interact with the sm
  [git clone] (https://github.com/aishwarya-m-260803/eip712-merkle.git)
 
  ### Navigate to the project
- cd eip712-merkle
+ cd <project_name>
 
  ### Install dependencies
  npm install
